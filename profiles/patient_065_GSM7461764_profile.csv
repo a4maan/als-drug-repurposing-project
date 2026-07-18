@@ -1,0 +1,201 @@
+GeneID,Symbol,Description,GeneType,score,abs_score
+3046,HBE1,hemoglobin subunit epsilon 1,protein-coding,-4.473913900894381,4.473913900894381
+3042,HBM,hemoglobin subunit mu,protein-coding,3.7814362231663994,3.7814362231663994
+10398,MYL9,myosin light chain 9,protein-coding,-2.549066755329082,2.549066755329082
+10410,IFITM3,interferon induced transmembrane protein 3,protein-coding,-2.295068040145148,2.295068040145148
+3674,ITGA2B,integrin subunit alpha 2b,protein-coding,-2.2565545614434233,2.2565545614434233
+1191,CLU,clusterin,protein-coding,-2.1778914053888685,2.1778914053888685
+4900,NRGN,neurogranin,protein-coding,-2.138109570824963,2.138109570824963
+100423062,IGLL5,immunoglobulin lambda like polypeptide 5,protein-coding,-2.0733089879635016,2.0733089879635016
+160364,CLEC12A,C-type lectin domain family 12 member A,protein-coding,2.037598511792659,2.037598511792659
+414062,CCL3L3,C-C motif chemokine ligand 3 like 3,protein-coding,-1.9163035955816246,1.9163035955816246
+973,CD79A,CD79a molecule,protein-coding,-1.832456055659172,1.832456055659172
+9086,EIF1AY,eukaryotic translation initiation factor 1A Y-linked,protein-coding,1.825419427347158,1.825419427347158
+3119,HLA-DQB1,"major histocompatibility complex, class II, DQ beta 1",protein-coding,-1.8250999937872427,1.8250999937872427
+1066,CES1,carboxylesterase 1,protein-coding,-1.8038353582430693,1.8038353582430693
+51237,MZB1,marginal zone B and B1 cell specific protein,protein-coding,-1.7937120081521494,1.7937120081521494
+2208,FCER2,Fc epsilon receptor II,protein-coding,-1.7848885509720853,1.7848885509720853
+706,TSPO,translocator protein,protein-coding,-1.781318909451524,1.781318909451524
+2812,GP1BB,glycoprotein Ib platelet subunit beta,protein-coding,-1.7747300794795147,1.7747300794795147
+4061,LY6E,lymphocyte antigen 6 family member E,protein-coding,-1.7664054303422396,1.7664054303422396
+9636,ISG15,ISG15 ubiquitin like modifier,protein-coding,-1.7636923232800878,1.7636923232800878
+3050,HBZ,hemoglobin subunit zeta,protein-coding,1.671267753821732,1.671267753821732
+8115,TCL1A,TCL1 family AKT coactivator A,protein-coding,-1.66166163409921,1.66166163409921
+6678,SPARC,secreted protein acidic and cysteine rich,protein-coding,-1.604516053866247,1.604516053866247
+9415,FADS2,fatty acid desaturase 2,protein-coding,-1.5848768234275221,1.5848768234275221
+257101,ZNF683,zinc finger protein 683,protein-coding,-1.5670145610597863,1.5670145610597863
+6237,RRAS,RAS related,protein-coding,-1.5667016648185133,1.5667016648185133
+51348,KLRF1,killer cell lectin like receptor F1,protein-coding,1.5623179193347267,1.5623179193347267
+4599,MX1,MX dynamin like GTPase 1,protein-coding,-1.536024723762298,1.536024723762298
+710,SERPING1,serpin family G member 1,protein-coding,-1.5246346317768404,1.5246346317768404
+3118,HLA-DQA2,"major histocompatibility complex, class II, DQ alpha 2",protein-coding,-1.519422776476751,1.519422776476751
+2815,GP9,glycoprotein IX platelet,protein-coding,-1.5145294923379675,1.5145294923379675
+8653,DDX3Y,DEAD-box helicase 3 Y-linked,protein-coding,1.5069815078773587,1.5069815078773587
+80781,COL18A1,collagen type XVIII alpha 1 chain,protein-coding,-1.4838960405316446,1.4838960405316446
+340205,TREML1,triggering receptor expressed on myeloid cells like 1,protein-coding,-1.46310227346234,1.46310227346234
+1396,CRIP1,cysteine rich protein 1,protein-coding,-1.4425842214168636,1.4425842214168636
+5196,PF4,platelet factor 4,protein-coding,-1.4275809282173622,1.4275809282173622
+1675,CFD,complement factor D,protein-coding,-1.4069829717961309,1.4069829717961309
+2123,EVI2A,ecotropic viral integration site 2A,protein-coding,1.3918313297735063,1.3918313297735063
+116173,CMTM5,CKLF like MARVEL transmembrane domain containing 5,protein-coding,-1.3839146005006493,1.3839146005006493
+102723407,LOC102723407,immunoglobulin heavy variable 4-38-2-like,protein-coding,-1.378805695407219,1.378805695407219
+90952,ESAM,endothelial cell adhesion molecule,protein-coding,-1.3766386612973533,1.3766386612973533
+3512,JCHAIN,joining chain of multimeric IgA and IgM,protein-coding,-1.3649585809856517,1.3649585809856517
+80739,MPIG6B,megakaryocyte and platelet inhibitory receptor G6b,protein-coding,-1.3637978128302692,1.3637978128302692
+23584,VSIG2,V-set and immunoglobulin domain containing 2,protein-coding,-1.3619033680024282,1.3619033680024282
+933,CD22,CD22 molecule,protein-coding,-1.356562864412996,1.356562864412996
+56654,NPDC1,"neural proliferation, differentiation and control 1",protein-coding,-1.3507402803275557,1.3507402803275557
+3430,IFI35,interferon induced protein 35,protein-coding,-1.3287029419288043,1.3287029419288043
+8685,MARCO,macrophage receptor with collagenous structure,protein-coding,-1.3286194129364821,1.3286194129364821
+6398,SECTM1,secreted and transmembrane 1,protein-coding,-1.3253094042476514,1.3253094042476514
+2537,IFI6,interferon alpha inducible protein 6,protein-coding,-1.3244927381191327,1.3244927381191327
+9124,PDLIM1,PDZ and LIM domain 1,protein-coding,-1.316083730161727,1.316083730161727
+4535,ND1,NADH dehydrogenase subunit 1,protein-coding,-1.3047702988844991,1.3047702988844991
+8876,VNN1,vanin 1,protein-coding,1.3025632014548898,1.3025632014548898
+171558,PTCRA,pre T cell antigen receptor alpha,protein-coding,-1.3004425360381213,1.3004425360381213
+5473,PPBP,pro-platelet basic protein,protein-coding,-1.298078415561983,1.298078415561983
+79095,BBLN,bublin coiled coil protein,protein-coding,-1.2947404792279797,1.2947404792279797
+54498,SMOX,spermine oxidase,protein-coding,-1.2940084656037285,1.2940084656037285
+8270,LAGE3,L antigen family member 3,protein-coding,-1.293467802383688,1.293467802383688
+4082,MARCKS,myristoylated alanine rich protein kinase C substrate,protein-coding,1.2925560721439582,1.2925560721439582
+57396,CLK4,CDC like kinase 4,protein-coding,1.2919609792267734,1.2919609792267734
+930,CD19,CD19 molecule,protein-coding,-1.2756310742865993,1.2756310742865993
+4536,ND2,NADH dehydrogenase subunit 2,protein-coding,-1.2647770744801015,1.2647770744801015
+8875,VNN2,vanin 2,protein-coding,1.260798456749417,1.260798456749417
+5819,NECTIN2,nectin cell adhesion molecule 2,protein-coding,-1.2589203801996467,1.2589203801996467
+162979,ZNF296,zinc finger protein 296,protein-coding,-1.2555466622950928,1.2555466622950928
+6726,SRP9,signal recognition particle 9,protein-coding,1.2529268274094758,1.2529268274094758
+974,CD79B,CD79b molecule,protein-coding,-1.2489847738080249,1.2489847738080249
+10791,VAMP5,vesicle associated membrane protein 5,protein-coding,-1.2458633032254367,1.2458633032254367
+8519,IFITM1,interferon induced transmembrane protein 1,protein-coding,-1.2418279263617447,1.2418279263617447
+4519,CYTB,cytochrome b,protein-coding,-1.238704189204239,1.238704189204239
+55352,COPRS,coordinator of PRMT5 and differentiation stimulator,protein-coding,-1.2313546994595443,1.2313546994595443
+4541,ND6,NADH dehydrogenase subunit 6,protein-coding,-1.228903611489173,1.228903611489173
+203228,C9orf72,C9orf72-SMCR8 complex subunit,protein-coding,1.2263605753411346,1.2263605753411346
+26127,FGFR1OP2,FGFR1 oncogene partner 2,protein-coding,1.2254956064765739,1.2254956064765739
+2041,EPHA1,EPH receptor A1,protein-coding,-1.224409066776768,1.224409066776768
+80741,LY6G5C,lymphocyte antigen 6 family member G5C,protein-coding,-1.2202459812099118,1.2202459812099118
+10581,IFITM2,interferon induced transmembrane protein 2,protein-coding,-1.2198215621696262,1.2198215621696262
+971,CD72,CD72 molecule,protein-coding,-1.2188796788987764,1.2188796788987764
+3965,LGALS9,galectin 9,protein-coding,-1.2167764613365606,1.2167764613365606
+9039,UBA3,ubiquitin like modifier activating enzyme 3,protein-coding,1.2145711825770966,1.2145711825770966
+4508,ATP6,ATP synthase F0 subunit 6,protein-coding,-1.2105838264071682,1.2105838264071682
+83442,SH3BGRL3,SH3 domain binding glutamate rich protein like 3,protein-coding,-1.21025429743297,1.21025429743297
+4509,ATP8,ATP synthase F0 subunit 8,protein-coding,-1.20776580837546,1.20776580837546
+4513,COX2,cytochrome c oxidase subunit II,protein-coding,-1.2028052825958155,1.2028052825958155
+124446,TMEM219,transmembrane protein 219,protein-coding,-1.1968594520951732,1.1968594520951732
+4179,CD46,CD46 molecule,protein-coding,1.195595128330694,1.195595128330694
+9976,CLEC2B,C-type lectin domain family 2 member B,protein-coding,1.1924502600205291,1.1924502600205291
+9406,ZRANB2,zinc finger RANBP2-type containing 2,protein-coding,1.1895992704178397,1.1895992704178397
+3728,JUP,junction plakoglobin,protein-coding,-1.1817242186525747,1.1817242186525747
+5500,PPP1CB,protein phosphatase 1 catalytic subunit beta,protein-coding,1.1768598405178663,1.1768598405178663
+3429,IFI27,interferon alpha inducible protein 27,protein-coding,-1.1756166819365421,1.1756166819365421
+3930,LBR,lamin B receptor,protein-coding,1.1754167661527712,1.1754167661527712
+1195,CLK1,CDC like kinase 1,protein-coding,1.1750556811918922,1.1750556811918922
+93343,MVB12A,multivesicular body subunit 12A,protein-coding,-1.1748994927999388,1.1748994927999388
+29802,VPREB3,V-set pre-B cell surrogate light chain 3,protein-coding,-1.1681683760911754,1.1681683760911754
+1593,CYP27A1,cytochrome P450 family 27 subfamily A member 1,protein-coding,-1.1670217135069039,1.1670217135069039
+53827,FXYD5,FXYD domain containing ion transport regulator 5,protein-coding,-1.165434248820807,1.165434248820807
+51293,CD320,CD320 molecule,protein-coding,-1.1651287452114578,1.1651287452114578
+57699,CPNE5,copine 5,protein-coding,-1.1624588062260364,1.1624588062260364
+4502,MT2A,metallothionein 2A,protein-coding,-1.158712431836369,1.158712431836369
+51181,DCXR,dicarbonyl and L-xylulose reductase,protein-coding,-1.1563629766133645,1.1563629766133645
+137797,LYPD2,LY6/PLAUR domain containing 2,protein-coding,-1.1548980245744798,1.1548980245744798
+28955,DEXI,Dexi homolog,protein-coding,-1.1540946538573194,1.1540946538573194
+4538,ND4,NADH dehydrogenase subunit 4,protein-coding,-1.1513134589556964,1.1513134589556964
+7351,UCP2,uncoupling protein 2,protein-coding,-1.150866327723326,1.150866327723326
+55437,STRADB,STE20 related adaptor beta,protein-coding,1.1489462398232873,1.1489462398232873
+427,ASAH1,N-acylsphingosine amidohydrolase 1,protein-coding,1.146839689282975,1.146839689282975
+54982,CLN6,CLN6 transmembrane ER protein,protein-coding,-1.1460997932969956,1.1460997932969956
+25946,ZNF385A,zinc finger protein 385A,protein-coding,-1.1449161125604166,1.1449161125604166
+10578,GNLY,granulysin,protein-coding,-1.142388071009105,1.142388071009105
+822,CAPG,"capping actin protein, gelsolin like",protein-coding,-1.1421098271895316,1.1421098271895316
+5552,SRGN,serglycin,protein-coding,1.1382393474163337,1.1382393474163337
+84519,ACRBP,acrosin binding protein,protein-coding,-1.1382162815246137,1.1382162815246137
+932,MS4A3,membrane spanning 4-domains A3,protein-coding,1.1318173389260173,1.1318173389260173
+2109,ETFB,electron transfer flavoprotein subunit beta,protein-coding,-1.1229651619287229,1.1229651619287229
+1465,CSRP1,cysteine and glycine rich protein 1,protein-coding,-1.1206481948828206,1.1206481948828206
+978,CDA,cytidine deaminase,protein-coding,-1.1165483173563098,1.1165483173563098
+23223,RRP12,ribosomal RNA processing 12 homolog,protein-coding,-1.1149183044161366,1.1149183044161366
+977,CD151,CD151 molecule (Raph blood group),protein-coding,-1.1149150828080454,1.1149150828080454
+5816,PVALB,parvalbumin,protein-coding,-1.1124729158697562,1.1124729158697562
+2950,GSTP1,glutathione S-transferase pi 1,protein-coding,-1.110027581873021,1.110027581873021
+116071,BATF2,basic leucine zipper ATF-like transcription factor 2,protein-coding,-1.109698687433191,1.109698687433191
+5997,RGS2,regulator of G protein signaling 2,protein-coding,1.1072216660576362,1.1072216660576362
+91947,ARRDC4,arrestin domain containing 4,protein-coding,1.1069739514413028,1.1069739514413028
+3475,IFRD1,interferon related developmental regulator 1,protein-coding,1.105667087421256,1.105667087421256
+388588,SMIM1,small integral membrane protein 1 (Vel blood group),protein-coding,-1.103656483923779,1.103656483923779
+23451,SF3B1,splicing factor 3b subunit 1,protein-coding,1.1031258724552198,1.1031258724552198
+58485,TRAPPC1,trafficking protein particle complex subunit 1,protein-coding,-1.1023449087324675,1.1023449087324675
+8850,KAT2B,lysine acetyltransferase 2B,protein-coding,1.101329033116947,1.101329033116947
+55854,ZC3H15,zinc finger CCCH-type containing 15,protein-coding,1.1007762846371185,1.1007762846371185
+597,BCL2A1,BCL2 related protein A1,protein-coding,1.1005053133923015,1.1005053133923015
+1026,CDKN1A,cyclin dependent kinase inhibitor 1A,protein-coding,-1.100079484436283,1.100079484436283
+120892,LRRK2,leucine rich repeat kinase 2,protein-coding,1.0982345568774046,1.0982345568774046
+10875,FGL2,fibrinogen like 2,protein-coding,1.0971015175937944,1.0971015175937944
+1892,ECHS1,"enoyl-CoA hydratase, short chain 1",protein-coding,-1.094810572247071,1.094810572247071
+54663,WDR74,WD repeat domain 74,protein-coding,-1.09366545192418,1.09366545192418
+6618,SNAPC2,small nuclear RNA activating complex polypeptide 2,protein-coding,-1.0899960891275742,1.0899960891275742
+29780,PARVB,parvin beta,protein-coding,-1.0887386449610694,1.0887386449610694
+2332,FMR1,fragile X messenger ribonucleoprotein 1,protein-coding,1.0873200079229566,1.0873200079229566
+8993,PGLYRP1,peptidoglycan recognition protein 1,protein-coding,-1.0871335389059174,1.0871335389059174
+57126,CD177,CD177 molecule,protein-coding,-1.0864422990736982,1.0864422990736982
+10135,NAMPT,nicotinamide phosphoribosyltransferase,protein-coding,1.0851086597606079,1.0851086597606079
+79849,NHERF4,NHERF family PDZ scaffold protein 4,protein-coding,1.0842258063538814,1.0842258063538814
+348262,MCRIP1,MAPK regulated corepressor interacting protein 1,protein-coding,-1.0813929623838703,1.0813929623838703
+4540,ND5,NADH dehydrogenase subunit 5,protein-coding,-1.0812586787385083,1.0812586787385083
+5441,POLR2L,"RNA polymerase II, I and III subunit L",protein-coding,-1.0749993734630396,1.0749993734630396
+8175,SF3A2,splicing factor 3a subunit 2,protein-coding,-1.0704940493403527,1.0704940493403527
+6141,RPL18,ribosomal protein L18,protein-coding,-1.0698077822281924,1.0698077822281924
+516,ATP5MC1,ATP synthase membrane subunit c locus 1,protein-coding,-1.0685291263211714,1.0685291263211714
+84836,ABHD14B,abhydrolase domain containing 14B,protein-coding,-1.06750467971758,1.06750467971758
+51439,FAM8A1,family with sequence similarity 8 member A1,protein-coding,1.0664569396326882,1.0664569396326882
+5004,ORM1,orosomucoid 1,protein-coding,-1.0660233609093783,1.0660233609093783
+23547,LILRA4,leukocyte immunoglobulin like receptor A4,protein-coding,-1.065714014882233,1.065714014882233
+340348,TSPAN33,tetraspanin 33,protein-coding,-1.0651615328864092,1.0651615328864092
+3159,HMGA1,high mobility group AT-hook 1,protein-coding,-1.0644863774971962,1.0644863774971962
+10735,STAG2,stromal antigen 2,protein-coding,1.0633616336405591,1.0633616336405591
+55957,LIN37,lin-37 DREAM MuvB core complex component,protein-coding,-1.0614850066292625,1.0614850066292625
+4924,NUCB1,nucleobindin 1,protein-coding,-1.059506489125536,1.059506489125536
+826,CAPNS1,calpain small subunit 1,protein-coding,-1.0589872409540564,1.0589872409540564
+92579,G6PC3,glucose-6-phosphatase catalytic subunit 3,protein-coding,-1.0579369785649035,1.0579369785649035
+400916,CHCHD10,coiled-coil-helix-coiled-coil-helix domain containing 10,protein-coding,-1.0550995768346783,1.0550995768346783
+5315,PKM,pyruvate kinase M1/2,protein-coding,-1.0536753436173854,1.0536753436173854
+10634,GAS2L1,growth arrest specific 2 like 1,protein-coding,-1.052387076081059,1.052387076081059
+94241,TP53INP1,tumor protein p53 inducible nuclear protein 1,protein-coding,1.0523334915176015,1.0523334915176015
+3091,HIF1A,hypoxia inducible factor 1 subunit alpha,protein-coding,1.050976057436612,1.050976057436612
+11270,NRM,nurim,protein-coding,-1.0509069384360203,1.0509069384360203
+4913,NTHL1,nth like DNA glycosylase 1,protein-coding,-1.0486199044823818,1.0486199044823818
+8804,CREG1,cellular repressor of E1A stimulated genes 1,protein-coding,1.0462526524826534,1.0462526524826534
+6386,SDCBP,syndecan binding protein,protein-coding,1.0459479896507828,1.0459479896507828
+9867,PJA2,praja ring finger ubiquitin ligase 2,protein-coding,1.0458706881648456,1.0458706881648456
+4282,MIF,macrophage migration inhibitory factor,protein-coding,-1.0456529796187675,1.0456529796187675
+8531,YBX3,Y-box binding protein 3,protein-coding,1.0440736671324011,1.0440736671324011
+23625,FAM89B,family with sequence similarity 89 member B,protein-coding,-1.043240085733075,1.043240085733075
+5026,P2RX5,purinergic receptor P2X 5,protein-coding,-1.0432090701359362,1.0432090701359362
+153222,CREBRF,CREB3 regulatory factor,protein-coding,1.0424857250278166,1.0424857250278166
+23616,SH3BP1,SH3 domain binding protein 1,protein-coding,-1.042138693511144,1.042138693511144
+26994,RNF11,ring finger protein 11,protein-coding,1.0377904955744064,1.0377904955744064
+8763,CD164,CD164 molecule,protein-coding,1.037520088580009,1.037520088580009
+29085,PHPT1,phosphohistidine phosphatase 1,protein-coding,-1.0371152406579387,1.0371152406579387
+5197,PF4V1,platelet factor 4 variant 1,protein-coding,-1.0343909615883593,1.0343909615883593
+64978,MRPL38,mitochondrial ribosomal protein L38,protein-coding,-1.0340084243885368,1.0340084243885368
+57515,SERINC1,serine incorporator 1,protein-coding,1.0325223172707707,1.0325223172707707
+51567,TDP2,tyrosyl-DNA phosphodiesterase 2,protein-coding,1.0321833471163915,1.0321833471163915
+55082,ARGLU1,arginine and glutamate rich 1,protein-coding,1.0318660728969826,1.0318660728969826
+3315,HSPB1,heat shock protein family B (small) member 1,protein-coding,-1.0318175556304852,1.0318175556304852
+9236,CCPG1,cell cycle progression 1,protein-coding,1.0285612166023097,1.0285612166023097
+57561,ARRDC3,arrestin domain containing 3,protein-coding,1.02799908042241,1.02799908042241
+8530,CST7,cystatin F,protein-coding,-1.0242232529252386,1.0242232529252386
+84876,ORAI1,ORAI calcium release-activated calcium modulator 1,protein-coding,-1.0235703094855606,1.0235703094855606
+10923,SUB1,SUB1 regulator of transcription,protein-coding,1.023049026259359,1.023049026259359
+923,CD6,CD6 molecule,protein-coding,-1.0192779308975493,1.0192779308975493
+9295,SRSF11,serine and arginine rich splicing factor 11,protein-coding,1.019209033917928,1.019209033917928
+669,BPGM,bisphosphoglycerate mutase,protein-coding,1.0186186671686417,1.0186186671686417
+84331,MCRIP2,MAPK regulated corepressor interacting protein 2,protein-coding,-1.0162917251397356,1.0162917251397356
+7169,TPM2,tropomyosin 2,protein-coding,-1.0149307971223505,1.0149307971223505
+1236,CCR7,C-C motif chemokine receptor 7,protein-coding,-1.0143452795463745,1.0143452795463745
+60672,MIIP,migration and invasion inhibitory protein,protein-coding,-1.0135086606285182,1.0135086606285182
+916,CD3E,CD3 epsilon subunit of T-cell receptor complex,protein-coding,-1.012311895973436,1.012311895973436
+230,ALDOC,"aldolase, fructose-bisphosphate C",protein-coding,-1.011723430319613,1.011723430319613
+89872,AQP10,aquaporin 10,protein-coding,-1.0104087936556,1.0104087936556
