@@ -1,0 +1,4 @@
+run,family,cluster0_mean,cluster1_mean,fold,cohens_d,mannwhitney_p,significant_0.05
+confounders_removed,globin_frac,0.838490662857185,0.7468239290404193,1.1227420952279163,,,False
+confounders_removed,ribosomal_frac,0.009200400826931073,0.01988113766118027,0.4627703395915664,,,False
+confounders_removed,mitochondrial_frac,0.010346924131435425,0.022905319947944584,0.4517258067099783,,,False

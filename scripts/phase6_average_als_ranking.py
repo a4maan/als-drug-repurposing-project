@@ -11,13 +11,16 @@ expr = pd.read_csv(
 )
 
 # -------------------------
-# Metadata
+# Metadata  (Flaw 1 fix: labels from GEO metadata, not column position)
 # -------------------------
 
-samples = expr.columns[1:]
+meta = pd.read_csv("results/sample_metadata.csv")
+group_of = dict(zip(meta["gsm"], meta["group"]))
 
-als_samples = samples[:96]
-control_samples = samples[96:]
+samples = [c for c in expr.columns if c.startswith("GSM")]
+
+als_samples = [c for c in samples if group_of.get(c) == "ALS"]
+control_samples = [c for c in samples if group_of.get(c) == "control"]
 
 print("ALS:", len(als_samples))
 print("Controls:", len(control_samples))

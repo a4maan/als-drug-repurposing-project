@@ -1,0 +1,8 @@
+# Large raw inputs are fetched with scripts/download_data.py, not committed.
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
